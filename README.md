@@ -15,5 +15,33 @@ The hackathon will take place from 15th to 19th of February. This is a temptativ
  - Day 4: Project work + 1/2 lectures (tba)
  - Day 5: Project work (morning); projects presentation (afternoon)
  
- ## Projects
+ ## Lectures (in progess)
+I think we have roughly space for 6-7 plus the intro, depending on their length. here some proposals, to be discussed:
+ - Introductions as needed on Python, Anaconda, conda, Jupyter, PyCharm, git/GitHub;
+ - Classes and objects in Python (aka, let's get confused together - Luigi?)
+ - Introduction to how to use and look at an imaging dataset from the lab with `split-dataset` and `napari` (Hagar)
+ - Make sense of your imaging responses with traces filtering methods and clustering (Ot)
+ - Speed up your functions vectorising code and using numba - maybe, if people would find it useful (Luigi?)
+ - Python packages, pip installation and automatic testing (Luigi)
+ 
+ ## Projects (in progress)
+ - Clean up the repo for lightsheet data alignment to reference.  
+ Topics: alignment, `ants`, notebooks, `napari`; 
+ Priority: high; 
+ - Abstract class for stytra hardware, window for arduino control, solve the trigger bug (require access to an arduino/a setup)
+ Topics: stytra; multiprocessing; arduino; microscope communication, `zmq`
+ Priority: medium  
+ - Napari plugin for split datasets  
+ Topics: `split_dataset`, `napari`, python package structure, pip deployment
+ Priority: high
+ - Preprocess a dataset just using `fimpy` and clean up all the little problems and holes in documentation that could be found  
+ Topics: fimpy; write documentation; 
+ Priority: medium
+ - Hack the projector and synchronize it for 2P and lightsheet experiments
+ Topics: hardware/electronics project; 
+ Priority: high, but lots of "if"s on the feasilibilty (requires hackable projector)
+ - Work on Sashimi, as currently single plane acquisition is not supported; (require at least part-time access to the lightsheet setup)
+ Topics: `sashimi`, `stytra`, multiprocessing, `zmq`
+ Priority: medium
+
  
