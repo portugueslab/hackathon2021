@@ -125,7 +125,11 @@ This is a trigger statement that will always kill from the start the good will o
 **Do**
 
 ```
-I have a problem with a camera in Stytra. I run it from the stytra_env environment and the screen stays black. Python does not raise any error when running Stytra from the terminal, and I can open the camera with the camera viewer. What can I do?
+I have a problem with a camera in Stytra. 
+I run it from the stytra_env environment and the screen stays black. 
+Python does not raise any error when running Stytra from the terminal.
+I can open the camera with the camera viewer. 
+What can I do?
 ```
 
 You have cleanly and concisely reported a problem, with a reasonable amount of detail for someone in the lab; it is perfectly fine if you don't know how to deal with it. Whoever you're asking will be happy to help you!
