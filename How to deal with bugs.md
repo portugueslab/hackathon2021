@@ -1,6 +1,6 @@
 # How to deal with bugs
 
-A little intro to the etiquette of bug reporting, for the hackathon and more in general for everyday work in the lab. As there is no precise workflow to follow, this is just a collection of sparse notes that are useful when dealing with lab custom code, prone to bugs.
+A little intro to the art of bug fixing and the etiquette of bug reporting, for the hackathon and for everyday work in the lab. As there is no precise workflow to follow, this is just a collection of sparse notes that are useful when dealing with lab custom code, prone to bugs.
 Unfortunately, although code running is 99.9% deterministic, code writing is not, and there is no general schema or a precise debugging algorithm that always works. There is some experience and pattern recognition involved; most importantly, a good amount of patience is paramount. Take it as a crossword to be solved! In almost all cases, a solution will be found, and it will be a reasonable one.
 
 For those reasons, the points below have some sort of order, but they are actually more like a collection of sparse tips. The only hard constrains are for the final section - how to get help - which you should read only after everything else!
@@ -8,7 +8,7 @@ For those reasons, the points below have some sort of order, but they are actual
 First, some (potentially unprecise, but understandable) explanation of useful words and concepts:
  - **IDE**: [Integrated Development Environment](https://it.wikipedia.org/wiki/Integrated_development_environment), basically a text editor with integrated helper tools to write and run code (eg, PyCharm)
  - **real-time program**: programs like Stytra or Sashimi, where you have a GUI and an event loop that keep executing some Python code to make things happen in real time (aquire frames, show stimuli, react to mouse/keyword clicks, etc). Opposed to analysis libraries and scripts like bouter and fimpy, where lines of code are executed only once, or a fixed number of times.
- - **DLL**: [Dynamic-Link Library](https://en.wikipedia.org/wiki/Dynamic-link_library), compiled code (eg, in the C/C++ language) that is somewhere in windows and can be loaded and used from a Python file
+ - **DLL**: [Dynamic-Link Library](https://en.wikipedia.org/wiki/Dynamic-link_library), compiled code (eg, in the `C/C++` language) that is somewhere in windows and can be loaded and used from a Python file
 
 Let's start!
 
