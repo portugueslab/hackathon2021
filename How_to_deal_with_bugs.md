@@ -112,7 +112,9 @@ If all of the above has lead to nothing after some amount of time (reasonably: 0
 
 **NOTE**
 
-Keep in mind that almost no code developer will be annoyed by people asking questions and help on code, inside and outside the lab! Requests are always treated with respect, as long they are respectful themselves and as long as they show the efforts that you have already made in solving them. Make sure that your understandable frustration does not get in the way of effective communication!
+Keep in mind that almost no developer will be annoyed by people asking questions and help on code, inside and outside the lab! Requests are always treated with respect, as long they are respectful themselves and as long as they show the efforts that you have already made in solving the bug. 
+
+Make sure that your understandable frustration does not get in the way of effective communication!
 
 **Don't:**
 
