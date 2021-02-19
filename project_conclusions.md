@@ -9,7 +9,7 @@
 ## Sashimi
 - Done: Pull request for Planar Imaging mode and no microscope mode done, Automatically updating documentation for sashimi;
 - to be found in sashimi repo on github;
-- Learned: print statements are your friend :) 
+- Learned: print statements are your friend :), dont push the meerge button on github, flakeing and blackening for pretty code
 - Still to do: bug fixes in saving for planar mode
 
 ## Morphing
