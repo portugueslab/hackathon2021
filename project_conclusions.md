@@ -11,3 +11,9 @@
 - to be found in sashimi repo on github;
 - Learned: print statements are your friend :) 
 - Still to do: bug fixes in saving for planar mode
+
+## Morphing
+- I now have a basic idea of how to align datasets with ANTsPy
+- Code added so far can be found in the `pipeline_notebooks` subfolder inside the `functional-to-reference` lab repository. Very preliminary so far.
+- Basic usage of the wonderful BrainGlobe Atlas API, installation and setting up of the Windows Subsystem for Linux, basic workflow for alignment with the ANTsPy library.
+- ToDo's: Finish documenting the computer setup process, properly comment all notebooks, make a guide/REAMDE with a guide for the whole morphing process and suggestions, find a way to store all files and transforms in a slighlty non-confusing way.
