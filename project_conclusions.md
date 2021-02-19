@@ -17,3 +17,9 @@
 - Code added so far can be found in the `pipeline_notebooks` subfolder inside the `functional-to-reference` lab repository. Very preliminary so far.
 - Basic usage of the wonderful BrainGlobe Atlas API, installation and setting up of the Windows Subsystem for Linux, basic workflow for alignment with the ANTsPy library.
 - ToDo's: Finish documenting the computer setup process, properly comment all notebooks, make a guide/REAMDE with a guide for the whole morphing process and suggestions, find a way to store all files and transforms in a slighlty non-confusing way.
+
+## Napari plugin
+- Set Github Actions, published a split-dataset/hdf5 reader plugin
+- In napari-split-dataset repo and on PyPI
+- Linting, pytest, Github Actions, deployment
+- Dealing with compatibility. The core of the problems seems to be h5py, which is used in split-dataset.
