@@ -23,3 +23,7 @@
 - In napari-split-dataset repo and on PyPI
 - Linting, pytest, Github Actions, deployment
 - Dealing with compatibility. The core of the problems seems to be h5py, which is used in split-dataset.
+
+## Stytra
+- Add an eye tracking method for free swimming fishes.
+- ToDo: update a more stable method
